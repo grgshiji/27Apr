@@ -1,0 +1,20 @@
+{
+  "blockId": "MFB7pFcYHFkJUSSjjWtoG",
+  "name": "27Apr_B1",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/grgshiji/27Apr.git",
+    "ssh": "git@github.com:grgshiji/27Apr.git",
+    "branch": "block_27Apr_B1"
+  },
+  "parentBlockIDs": [
+    "vyS7oW-dj7eugp_iZ16jX"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "node index.js"
+}
