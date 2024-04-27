@@ -1,0 +1,16 @@
+{
+  "name": "27Apr",
+  "type": "package",
+  "blockId": "vyS7oW-dj7eugp_iZ16jX",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_27Apr"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
